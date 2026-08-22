@@ -78,7 +78,7 @@ Each dimension table has a **one-to-many (1:*) relationship** with the Transacti
 
 The interactive Power BI dashboard provides an overview of revenue, profitability, transaction activity, customer segments, store performance, product performance, and payment behavior.
 
-![Retail Sales Analytics Dashboard](images/retail_sales_dashboard.png)
+![Retail Sales Analytics Dashboard](retail_sales_dashboard.png)
 
 
 ## Key Metrics
